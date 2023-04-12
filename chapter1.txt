@@ -1,3 +1,7 @@
 This is chapter 1.
 
 This the content of chapter one.
+
+Before checkout
+
+restore 
